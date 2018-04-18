@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "MGT - Quantum Chemistry"
 title_separator          : "-"
 name                     : "Michael G. Taylor"
 description              : "Computational Chemist - NSF GRFP Fellow - Graduate Researcher"
@@ -97,12 +97,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Michael G. Taylor"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "PhD Candidate, Chemical Engineering, University of Pittsburgh"
+  location         : "Pittsburgh, PA"
+  email            : "mgt16@pitt.edu"
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -126,7 +126,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : 
 
 
 # Reading Files
