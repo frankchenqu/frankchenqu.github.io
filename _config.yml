@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "sunrise" #"default" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MGT - Quantum Chemistry"
+title                    : "MGT"
 title_separator          : "-"
 name                     : "Michael G. Taylor"
 description              : "Computational Chemist - NSF GRFP Fellow - Graduate Researcher"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mgt16.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "mgt16/mgt16.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael G. Taylor"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.png"
   bio              : "PhD Candidate, Chemical Engineering, University of Pittsburgh"
   location         : "Pittsburgh, PA"
   email            : "mgt16@pitt.edu"
@@ -110,7 +110,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "mgt16"
   gitlab           :
   google_plus      :
   keybase          :
