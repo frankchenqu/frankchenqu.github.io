@@ -13,3 +13,4 @@ projects:
     btn_class: "btn--primary"
 ## Projects
 {% include feature_row id="projects" caption="Rsearch projects." %}
+---
