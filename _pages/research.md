@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Research"
-permalink /research/
+permalink: /research/
 date: 2018-4-18
 categories: pages
 projects:
