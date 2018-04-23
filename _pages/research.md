@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Research"
 permalink: /research/
 date: 2018-4-18
