@@ -9,7 +9,6 @@ toc: true
 toc_label: "Years"
 toc_icon: "columns"
 ---
-## Publications 
 Links and overview images of all of my academic publications.
 
 ## 2018
