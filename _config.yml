@@ -102,8 +102,7 @@ author:
   bio              : "PhD Candidate, Chemical Engineering, University of Pittsburgh"
   location         : "Pittsburgh, PA"
   email            : "mgt16@pitt.edu"
-  uri              : &uri "https://scholar.google.com/citations?user=lw_MEZgAAAAJ&hl=en"
-  url              : *uri
+  google scholar   : "https://scholar.google.com/citations?user=lw_MEZgAAAAJ&hl=en"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
