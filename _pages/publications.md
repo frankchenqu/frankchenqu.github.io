@@ -34,7 +34,7 @@ Links and overview images of all of my academic publications.
 [J. Chung, I. Granja, M. G. Taylor, G. Mpourmpakis, J. R. Asplin, and J. D. Rimer. “Molecular modifiers reveal a mechanism of pathological crystal growth inhibition”. In: **Nature** 536.7617 (2016), pp. 446–450. DOI: 10.1038/nature19062.](https://www.nature.com/articles/nature19062)
 ## 2015
 ### CO Oxidation Trends
-{% include figure image_path="/assets/images/acscat2015_toc.fig" %}
+{% include figure image_path="/assets/images/acscat2015_toc.gif" %}
 [M. G. Taylor, N. Austin, C. Gounaris, and G. Mpourmpakis. “Catalyst Design Based on Morphology and Environment Dependent Adsorption on Metal Nanoparticles”. In: **ACS Catalysis** 5.11 (2015), pp. 6296–6301. doi: 10.1021/acscatal.5b01696.](https://pubs.acs.org/doi/abs/10.1021/acscatal.5b01696)
 ## 2013
 ### Desalination with Zwitterion Membranes
