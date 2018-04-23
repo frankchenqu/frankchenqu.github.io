@@ -19,7 +19,7 @@ Links and overview images of all of my academic publications.
 ### Cadmium-Doped Au<sub>23</sub> Nanocluster
 {% include figure image_path="/assets/images/jacs2017_toc.gif" %}
 [Q. Li, K. J. Lambright, M. G. Taylor, K. Kirschbaum, T.-Y. Luo, J. Zhao, G. Mpourmpakis, S. Mokashi-Punekar, N. L. Rosi, and R. Jin. “Reconstructing the Surface of Gold Nanoclusters by Cadmium Doping”. In: **Journal of the American Chemical Society** 139.49 (2017), pp. 17779–17782. DOI: 10.1021/jacs.7b11491.](https://pubs.acs.org/doi/abs/10.1021/jacs.7b11491)
-### Silver-Doped M<sub>24</sub> Nanocluster
+### Silver-Doped Au<sub>24</sub> Nanocluster
 {% include figure image_path="/assets/images/jcis2017_toc.jpg" %}
 [Q. Li, M. G. Taylor, K. Kirschbaum, K. J. Lambright, X. Zhu, G. Mpourmpakis, and R. Jin. “Site-selective substitution of gold atoms in the Au<sub>24</sub>(SR)<sub>20</sub> nanocluster by silver”. In: **Journal of Colloid and Interface Science** 505 (2017), pp. 1202–1207. doi: 10.1016/j.jcis.2017.06.049.](https://www.sciencedirect.com/science/article/pii/S0021979717307038)
 ### Thermodynamic Stability Model
