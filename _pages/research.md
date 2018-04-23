@@ -16,4 +16,4 @@ Moving past the formulation of [older theory](https://journals.aps.org/prb/abstr
 {% include figure image_path="/assets/images/acscat2015_toc.gif" caption="Demonstration of the effect of CO adsorption on Au-nanoparticle morphology and catlytic activity." %}
 ### Kidney Stone Growth Inhibition
 I am working on methods to understand and rationalize inhibition of kidney stone growth by a number of modifiers. Our [initial work](https://www.nature.com/articles/nature19062) was published in **Nature** and a follow-up work highlighting other modifiers should be published soon!
-{% include figure image_path="/assets/images/nature2016_toc.png" caption="Rendering of "growth" of calcium oxalate monohydrate crystals under the presence of different molecular growth modifiers." %}
+{% include figure image_path="/assets/images/nature2016_toc.png" caption="Rendering of growth of calcium oxalate monohydrate crystals under the presence of different molecular growth modifiers." %}
