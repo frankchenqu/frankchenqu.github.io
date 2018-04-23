@@ -4,6 +4,8 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Media"
+    url: /media/
   - title: "CV"
     url: /assets/docs/MGT_CV.pdf
   # - title: "Sample Collections"
