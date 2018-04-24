@@ -4,7 +4,7 @@ title: "Recent work published in Nano Letters"
 date: 2018-04-19
 categories: research
 ---
-My [work](https://pubs.acs.org/doi/10.1021/acs.nanolett.8b00670) with Masters Student Zihao Yan in the [CANELa Lab](http://www.mpourmpakis.com) was recently published in Nano Letters!
+Our [work](https://pubs.acs.org/doi/10.1021/acs.nanolett.8b00670) with Masters Student Zihao Yan in the [CANELa Lab](http://www.mpourmpakis.com) was recently published in Nano Letters!
 
 {% include figure image_path="/assets/images/nanolett_toc.png" %}
 
