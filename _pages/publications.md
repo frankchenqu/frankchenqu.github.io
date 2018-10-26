@@ -12,9 +12,13 @@ toc_icon: "columns"
 Links and overview images of all of my academic publications.
 
 ## 2018
+### Rethinking Heterometal Doping in Nanoclusters
+{% include figure image_path="/assets/images/jpcl2018.png" %}
+[M. G. Taylor and  G. Mpourmpakis. “Rethinking Heterometal Doping in Ligand-Protected Metal Nanoclusters”. In: **Journal of Physical Chemistry Letters** Just Accepted (Oct. 2018), doi: 10.1021/acs.jpclett.8b02679](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b02679)
+
 ### Kidney Stone Growth Modifier Comparison
 {% include figure image_path="/assets/images/cgad2018_toc.png" %}
-[J. Chung, M. G. Taylor, I. Granja, J. R. Asplin, G. Mpourmpakis, and J. D. Rimer. “Factors Differentiating the Effectiveness of Polyprotic Acids as Inhibitors of Calcium Oxalate Crystallization in Kidney Stone Disease”. In: **Crystal Growth & Design** (Aug. 2018), acs.cgd.8b00945. issn: 1528-7483. doi: 10.1021/acs.cgd.8b00945](https://pubs.acs.org/doi/abs/10.1021/acs.cgd.8b00945)
+[J. Chung, M. G. Taylor, I. Granja, J. R. Asplin, G. Mpourmpakis, and J. D. Rimer. “Factors Differentiating the Effectiveness of Polyprotic Acids as Inhibitors of Calcium Oxalate Crystallization in Kidney Stone Disease”. In: **Crystal Growth & Design** 18.9 (2018), pp. 5617-5627. doi: 10.1021/acs.cgd.8b00945](https://pubs.acs.org/doi/abs/10.1021/acs.cgd.8b00945)
 
 ### Bond-Centric Model
 {% include figure image_path="/assets/images/nanolett_toc.png" %}
