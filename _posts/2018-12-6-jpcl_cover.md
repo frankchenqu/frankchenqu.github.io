@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "CoMSEF Division Graduate Student Award at AIChE 2018"
-date: 2018-11-1
+title: "JPCL Cover Highlight!"
+date: 2018-12-6
 categories: news
 ---
 {% include figure image_path="/assets/images/jpcl_cover.jpg" %}
