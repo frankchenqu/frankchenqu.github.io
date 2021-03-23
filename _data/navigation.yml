@@ -6,7 +6,7 @@ main:
       #url: /publications/
   - title: "Media"
     url: /media/
-  - ttile: "Publications"
+  - title: "Publications"
     url: https://scholar.google.com/citations?user=lw_MEZgAAAAJ&hl=en
   - title: "Resume/CV"
     url: /assets/docs/MGT_CV.pdf

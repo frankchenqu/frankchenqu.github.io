@@ -6,7 +6,8 @@ date: 2018-4-18
 categories: pages
 ---
 ## Web Content
-[molSimplify Lite](https://molsimplify.mit.edu/)
+[molSimplify Lite](https://molsimplify.mit.edu/) - web-based inorganometallic design.
+
 **Description:** Contributed interactive plots and extended diversity of structure-building
 capabilities of the molSimplify online viewer - powered by Flask and Javascript.
 
