@@ -8,7 +8,7 @@ main:
     url: /media/
   - ttile: "Publications"
     url: https://scholar.google.com/citations?user=lw_MEZgAAAAJ&hl=en
-  - title: "CV"
+  - title: "Resume/CV"
     url: /assets/docs/MGT_CV.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
