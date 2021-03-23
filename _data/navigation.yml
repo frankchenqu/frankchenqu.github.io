@@ -2,10 +2,12 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Publications"
-    url: /publications/
+      #  - title: "Publications"
+      #url: /publications/
   - title: "Media"
     url: /media/
+  - ttile: "Publications"
+    url: https://scholar.google.com/citations?user=lw_MEZgAAAAJ&hl=en
   - title: "CV"
     url: /assets/docs/MGT_CV.pdf
   # - title: "Sample Collections"
