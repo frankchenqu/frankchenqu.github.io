@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 
+title: news
 permalink: /news/
 date: 2023-8-21
 categories: pages
