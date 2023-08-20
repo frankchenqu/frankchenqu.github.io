@@ -6,7 +6,6 @@ date: 2023-8-21
 categories: pages
 ---
 ### Qu Chen (Frank)
-{% include figure image_path="/assets/images/myphoto.JPG" %}
 
 ## Education and Employment
 **2015.6-present**
