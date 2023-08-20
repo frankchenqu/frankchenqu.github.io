@@ -1,6 +1,6 @@
 ---
 layout: single
-title:
+title: members
 permalink: /members/
 date: 2023-8-21
 categories: pages
