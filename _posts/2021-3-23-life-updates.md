@@ -1,14 +1,10 @@
 ---
 layout: single
-title: "Current thrusts and interests 3/21."
+title: "Something about me"
 date: 2021-03-21
 categories: life
 ---
 
-I am a researcher interested in bringing molecular/materials modeling and data-driven discovery to
-real and emerging materials. In practice, this looks like extending tailored featurizations for
-inorganometallic chemistry, testing generalizability of artificial neural network models to
-experimental chemistries, and digging deeper into the physics behind it all. Beyond
-chemistry-related applications I have broader interests in asking data-related questions of the
-world. I aspire to always be working on things that matter by attempting to make what I'm
-working on matter. 
+**Qu Chen** received his B.Sc. degree (2007) and Ph.D. degree (2013) in Chemistry from Zhejiang University, China, under the supervision of Prof. Qi Wang. From 2014 to 2015, he worked as a postdoctoral researcher with Prof. Thijs Vlugt at Delft University of Technology. He joined Zhejiang University of Science and Technology in 2015. His research involves using computer simulation and machine learning to bring molecular modelling to real industrial and medical applications. 
+
+In his spare time, he enjoys travelling and language learning. He also spends a certain amount of time each week in triatholon training (swim, bike, run).
