@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "mint" #"sunrise" #"default" # "air", "aqua", "contra
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MGT"
+title                    : "Chen"
 title_separator          : "-"
-name                     : "Michael G. Taylor"
-description              : "Computational Chemist - Postdoctoral Scholar"
-url                      : "https://mgt16.github.io"
+name                     : "Qu Chen"
+description              : "Computational Chemist"
+url                      : "https://frankchenqu.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mgt16/mgt16.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "frankchenqu.github.io"
+teaser                   : 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -97,12 +97,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael G. Taylor"
-  avatar           : "/assets/images/avatar.png"
-  bio              : "Postdoctoral Scholar, Massachussets Institute of Technology (MIT)"
-  location         : "Cambridge, MA"
-  email            : "mgt16@mit.edu"
-  uri              : "https://scholar.google.com/citations?user=lw_MEZgAAAAJ&hl=en"
+  name             : "Qu Chen (Frank)"
+  avatar           : "/assets/images/myphoto.JPG"
+  bio              : "Lecturer, Zhejiang University of Science and Technology (ZUST)"
+  location         : "Hangzhou, China"
+  email            : "chenqu@vip.126.com"
+  uri              : "https://scholar.google.com/citations?user=HZV22nIAAAAJ&hl=en"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -110,16 +110,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mgt16"
+  github           : "frankchenqu"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "michael-taylor-04968941"
+  linkedin         :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    :
+  steam            : 
   tumblr           :
   twitter          :
   vine             :
