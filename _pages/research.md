@@ -1,11 +1,10 @@
 ---
 layout: single
-title: 
+title: Research Interest
 permalink: /research/
 date: 2023-8-21
 categories: pages
 ---
-# Research Interest
 **I am currently using computer simulation methods and machine learning approaches to study the following topics:**
 
 (1) Developing and advancing theories in diffusion and adsorption in nanopores
