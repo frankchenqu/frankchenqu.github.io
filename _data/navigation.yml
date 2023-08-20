@@ -4,12 +4,12 @@ main:
     url: /research/
       #  - title: "Publications"
       #url: /publications/
-  - title: "Media"
-    url: /media/
+  - title: "Members"
+    url: /members/
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=lw_MEZgAAAAJ&hl=en
+    url: /publication/
   - title: "Resume/CV"
-    url: /assets/docs/MGT_CV.pdf
+    url: /resume/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
