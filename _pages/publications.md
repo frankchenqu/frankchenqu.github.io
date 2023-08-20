@@ -9,7 +9,6 @@ toc: true
 toc_label: "Years"
 toc_icon: "columns"
 ---
-Links and overview images of all of my academic publications.
 
 ## Work in ZUST
 1. Lu Wang, Yifeng Zhou, **Qu Chen***, AMMVF-DTI: A Novel Model Predicting Drug-Target Interactions Based on Attention Mechanism and Multi-View Fusion (submitted).
