@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" #"sunrise" #"default" # "air", "aqua", "contra
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen"
+title                    : "Chen Group"
 title_separator          : "-"
 name                     : "Qu Chen"
 description              : "Computational Chemist"
