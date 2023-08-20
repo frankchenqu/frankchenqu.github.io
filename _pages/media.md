@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Media"
-permalink: /media/
+permalink: /member/
 date: 2018-4-18
 categories: pages
 ---
