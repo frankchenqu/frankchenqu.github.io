@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research"
+title: 
 permalink: /research/
 date: 2023-8-21
 categories: pages
