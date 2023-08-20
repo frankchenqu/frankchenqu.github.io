@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "members"
+title:
 permalink: /members/
 date: 2023-8-21
 categories: pages
 ---
-### Qu Chen (Frank)
+## Qu Chen (Frank)
 
 ## Education and Employment
 **2015.6-present**
