@@ -8,8 +8,8 @@ main:
     url: /members/
   - title: "Publications"
     url: /publication/
-  - title: "Resume/CV"
-    url: /resume/
+  - title: "News"
+    url: /news/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
