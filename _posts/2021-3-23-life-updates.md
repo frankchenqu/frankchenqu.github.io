@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 
+title: Something about me
 date: 2023-8-21
 categories: Page
 ---
