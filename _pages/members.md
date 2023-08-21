@@ -70,6 +70,8 @@ New Oriental Education & Technology Group Inc.
 ### Teaching and Speaking
 **2017/2018**    The Most Popular Teachers Award, NetEase Youdao, Beijing, China
 
+**2016** The winner of the Teaching Skills Competition for Young Teachers, Zhejiang University of Science and Technology
+
 **2009**   The third prize winner of the Teaching Skills Competition, New Oriental Education, China
 
 **2001**   The first prize winner of the High School English Speech Contest, Hangzhou, Zhejiang, China
