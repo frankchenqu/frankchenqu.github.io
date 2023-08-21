@@ -36,9 +36,9 @@ B.E. in Jiangsu Normal University
 ## Conference
 The 11th International Conference on Molecular Simulations and Artificial Intelligence Application, **2023**, Chengdu, China
 
-Diffusion Fundamentals VIII, **2019**, Erlangen, Germany. (Poster Session) 
-
 The 3rd International Computational Science & Engineering Conference, **2019**, Doha, Qatar. (Oral Presentation)
+
+Diffusion Fundamentals VIII, **2019**, Erlangen, Germany. (Poster Session)
 
 European Symposium on Applied Thermodynamics, **2014**, Eindhoven, the Netherlands. (Poster Session)
 
