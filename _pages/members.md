@@ -29,7 +29,7 @@ categories: pages
 **2007** **Summer Visitor** in North Carolina State University, Raleigh, NC, USA (advisor: Prof. Keith E. Gubbins) 
 
 ## Mentoring Experience
-**Lu Wang** master student ((co-advised by Yifeng Zhou))
+**Lu Wang** master student (co-advised with Prof. Yifeng Zhou)
 
 B.E. in Jiangsu Normal University
 
