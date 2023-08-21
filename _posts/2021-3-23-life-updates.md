@@ -9,4 +9,4 @@ categories: Page
 
 In his spare time, he enjoys travelling and language learning. He also spends a certain amount of time each week on triatholon training (swim, bike, run).
 
-"All Human wisdom is summed up in these two words - wait and hope." - *The Count of Monte Cristo* by Alexandre Dumas
+"All human wisdom is summed up in these two words - wait and hope." - *The Count of Monte Cristo* by Alexandre Dumas
