@@ -29,9 +29,9 @@ categories: pages
 **2007** **Summer Visitor** in North Carolina State University, Raleigh, NC, USA (advisor: Prof. Keith E. Gubbins) 
 
 ## Mentoring Experience
-**Lu Wang**
+**Lu Wang** master student ((co-advised by Yifeng Zhou))
 
-B.S. in Jiangsu Normal University (co-advised by Yifeng Zhou)
+B.S. in Jiangsu Normal University
 
 ## Conference
 The 11th International Conference on Molecular Simulations and Artificial Intelligence Application, **2023**, Chengdu, China
