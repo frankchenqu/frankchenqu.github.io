@@ -31,7 +31,7 @@ categories: pages
 ## Mentoring Experience
 **Lu Wang** master student ((co-advised by Yifeng Zhou))
 
-B.S. in Jiangsu Normal University
+B.E. in Jiangsu Normal University
 
 ## Conference
 The 11th International Conference on Molecular Simulations and Artificial Intelligence Application, **2023**, Chengdu, China
