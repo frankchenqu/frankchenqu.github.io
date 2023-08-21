@@ -9,29 +9,29 @@ categories: pages
 ## Education and Employment
 **2015.6-present**
 
-**Lecturer** in Zhejiang University of Science and Technology
+**Lecturer** at Zhejiang University of Science and Technology
 
 **2014.2-2015.2**
 
-**Postdoctoral researcher** in Delft University of Technology, Delft, the Netherlands (advisor: Prof.dr.ir. Thijs J.H. Vlugt)
+**Postdoctoral researcher** at Delft University of Technology, Delft, the Netherlands (advisor: Prof.dr.ir. Thijs J.H. Vlugt)
 
 **2007.9-2013.12**
 
-**Ph.D.** in Zhejiang University, Hangzhou, China (advisor: Prof. Qi Wang)
+**Ph.D.** at Zhejiang University, Hangzhou, China (advisor: Prof. Qi Wang)
 
 **2003.9-2007.6**
 
-**B.S.** in Zhejiang University, Hangzhou, China (advisor: Prof. Qi Wang)
+**B.S.** at Zhejiang University, Hangzhou, China (advisor: Prof. Qi Wang)
 
 ## Research Experience
-**2008** **Summer Visitor** in Tohoku University, Sendai, Japan
+**2008** **Summer Visitor** at Tohoku University, Sendai, Japan
 
-**2007** **Summer Visitor** in North Carolina State University, Raleigh, NC, USA (advisor: Prof. Keith E. Gubbins) 
+**2007** **Summer Visitor** at North Carolina State University, Raleigh, NC, USA (advisor: Prof. Keith E. Gubbins) 
 
 ## Mentoring Experience
 **Lu Wang** master student (co-advised with Prof. Yifeng Zhou)
 
-B.E. in Jiangsu Normal University
+B.E. at Jiangsu Normal University
 
 ## Conference
 The 11th International Conference on Molecular Simulations and Artificial Intelligence Application, **2023**, Chengdu, China
