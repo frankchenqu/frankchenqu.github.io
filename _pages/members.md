@@ -54,3 +54,22 @@ NetEase Youdao Information Technology Co., Ltd.
 **2008-2015**
 
 New Oriental Education & Technology Group Inc.
+
+## Awards and Honors
+### Academic
+**2010/2011**   The second prize winner of the Outstanding Graduate Student Award, Zhejiang University
+
+**2007**   The Best Undergraduate Dissertation Award, Zhejiang University
+
+**2006**   The first prize winner of the Research and Innovation Scholarship, Zhejiang University
+
+**2006**   The first prize winner of the 2nd “ESTEVE-CUP” Chemical Experiment Competition, Zhejiang, China
+
+**2005**   The third prize winner of the National Science Base Scholarship, Zhejiang University
+
+### Teaching and Speaking
+**2017/2018**    The Most Popular Teacher Award, NetEase Youdao, Beijing, China
+
+**2009**   The third prize winner of the Teaching Skills Competition, New Oriental Education, China
+
+**2001**   The first prize winner of the High School English Speech Contest, Hangzhou, Zhejiang, China
