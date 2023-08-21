@@ -68,7 +68,7 @@ New Oriental Education & Technology Group Inc.
 **2005**   The third prize winner of the National Science Base Scholarship, Zhejiang University
 
 ### Teaching and Speaking
-**2017/2018**    The Most Popular Teacher Award, NetEase Youdao, Beijing, China
+**2017/2018**    The Most Popular Teachers Award, NetEase Youdao, Beijing, China
 
 **2009**   The third prize winner of the Teaching Skills Competition, New Oriental Education, China
 
