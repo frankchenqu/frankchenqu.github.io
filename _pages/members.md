@@ -29,7 +29,7 @@ categories: pages
 **2007** **Summer Visitor** at North Carolina State University, Raleigh, NC, USA (advisor: Prof. Keith E. Gubbins) 
 
 ## Mentoring Experience
-**Lu Wang** master student (co-advised with Prof. Yifeng Zhou)
+**Lu Wang** master student (co-supervised with Prof. Yifeng Zhou)
 
 B.E. at Jiangsu Normal University
 
@@ -63,7 +63,7 @@ New Oriental Education & Technology Group Inc.
 
 **2006**   The first prize winner of the Research and Innovation Scholarship, Zhejiang University
 
-**2006**   The first prize winner of the 2nd “ESTEVE-CUP” Chemical Experiment Competition, Zhejiang, China
+**2006**   The first prize winner of the 2nd “ESTEVE-CUP” Provnicial Chemical Experiment Competition, Zhejiang, China
 
 **2005**   The third prize winner of the National Science Base Scholarship, Zhejiang University
 
