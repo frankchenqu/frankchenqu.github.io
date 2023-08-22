@@ -63,7 +63,7 @@ New Oriental Education & Technology Group Inc.
 
 **2006**   The first prize winner of the Research and Innovation Scholarship, Zhejiang University
 
-**2006**   The first prize winner of the 2nd “ESTEVE-CUP” Provnicial Chemical Experiment Competition, Zhejiang, China
+**2006**   The first prize winner of the 2nd “ESTEVE-CUP” Provincial Chemical Experiment Competition, Zhejiang, China
 
 **2005**   The third prize winner of the National Science Base Scholarship, Zhejiang University
 
