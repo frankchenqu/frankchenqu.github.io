@@ -21,7 +21,7 @@ categories: pages
 
 **2003.9-2007.6**
 
-**B.S.** at Zhejiang University, Hangzhou, China (advisor: Prof. Qi Wang)
+**B.Sc.** at Zhejiang University, Hangzhou, China (advisor: Prof. Qi Wang)
 
 ## Research Experience
 **2008** **Summer Visitor** at Tohoku University, Sendai, Japan
