@@ -9,7 +9,7 @@ categories: pages
 
 *(1) Developing and advancing theories in diffusion and adsorption in nanopores*
 
-There usually lack experimental data on diffusion and adsorption of fluids in defect-free carbon nanotubes (CNTs), which feature hollow interior and smooth surface. However, mathametical and computational models can be utilized to predict the thermodynamic and kinetic properties of fluids inside pristine and modified CNTs. This part of the work can be extended to other nanomaterials and enhance our understandings of fluid transport in confined spaces.
+There usually lack experimental data on diffusion and adsorption of fluids in defect-free carbon nanotubes (CNTs), which feature hollow interior and smooth surface. However, mathametical and computational models can be utilized to predict the thermodynamic and kinetic properties of fluids inside pristine and modified CNTs. This part of the work can be extended to other nanoporous materials and enhance our understandings of fluid transport in confined spaces.
 
 {% include figure image_path="/assets/images/AIPadv2023TOC.jpg" caption="Failure of the Bosanquet Equation to Predict the Diffusivities of Fluids inside Nanotubes" %}
 
