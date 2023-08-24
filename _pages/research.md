@@ -15,7 +15,7 @@ There usually lack experimental data on diffusion and adsorption of fluids in de
 
 *(2) Carbon capture with conventional physical and chemical solvents*
 
-Understanding CO<sub>2</sub> absorption and diffusion in physical solvents (e.g. propylene carbonate) and chemical solvents (e.g. monoethanolamine) is essential to develop the next generation of solvents that are affordable and recyclable. Computer simulation often serves as a tool to predict physical properties of CO<sub>2</sub> in the solvents, providing insights into industrial applications. However, with existing force fields, mixing rules, and simulation approaches, the accuracy of the simulation results still needs significant improvement. Conventional methods combined with machine-learning approaches are expected to address the issue.
+Understanding CO<sub>2</sub> absorption and diffusion in physical solvents (e.g. propylene carbonate) and chemical solvents (e.g. monoethanolamine) is essential to develop the next generation of solvents that are affordable and recyclable. Computer simulation often serves as a tool to predict physical properties of CO<sub>2</sub> in the solvents, providing insights into industrial applications. However, with existing force fields, mixing rules, and simulation approaches, the accuracy of the simulation results still needs significant improvement. Conventional methods combined with machine-learning approaches are expected to address this issue.
 
 {% include figure image_path="/assets/images/MS2023TOC.gif" caption="Absorption of CO<sub>2</sub> in Four Physical Solvents using the Continuous Fractional Component Monte Carlo Method" %}
 
