@@ -21,6 +21,6 @@ Understanding CO<sub>2</sub> absorption and diffusion in physical solvents (e.g.
 
 *(3) Transmembrane and transdermal drug delivery as well as drug-target interaction prediction*
 
-Drug delivery and discovery is at the heart of scientific community around the world. It is quite challenging to model transmembrane and transdermal drug delivery due to the structure complexity of skin barriers and cell membranes. Multiscale approaches are therefore badly needed, such as Coarse-Grain modelling, metadynamics and QM/MM methods. Also, when physics-driven results meet data-driven perspectives, the process of drug and material discovery is likely to be accelerated.
+Drug delivery and discovery is at the heart of scientific community around the world. It is quite challenging to model transmembrane and transdermal drug delivery due to the structure complexity of skin barriers and cell membranes. Multiscale approaches are therefore badly needed, such as coarse-grain modelling, metadynamics and QM/MM methods. Also, when physics-driven results meet data-driven perspectives, the process of drug and material discovery is likely to be accelerated.
 
 {% include figure image_path="/assets/images/ACSOMEGA2021TOC.gif" caption="Release of a Peptide Drug from Carbon Nanotubes in an Electric Field" %}
