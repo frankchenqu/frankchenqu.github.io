@@ -13,7 +13,7 @@ toc_icon: "columns"
 ## Work in ZUST
 (17) Lu Wang, Yifeng Zhou, **Qu Chen***, AMMVF-DTI: A Novel Model Predicting Drug-Target Interactions Based on Attention Mechanism and Multi-View Fusion. (submitted)
 
-(16) **Qu Chen***, Jianping Zhou, Investigating the Validity of the Bosanquet Equation for Predicting the Self-diffusivities of Fluids inside Nanotubes Using Equilibrium Molecular Dynamics Simulations, AIP Advances, 2023, 13, 025338. [PDF](https://pubs.aip.org/aip/adv/article/13/2/025338/2877685/Investigating-the-validity-of-the-Bosanquet)
+(16) **Qu Chen***, Jianping Zhou, Investigating the Validity of the Bosanquet Equation for Predicting the Self-diffusivities of Fluids inside Nanotubes Using Equilibrium Molecular Dynamics Simulations, AIP Adv., 2023, 13, 025338. [PDF](https://pubs.aip.org/aip/adv/article/13/2/025338/2877685/Investigating-the-validity-of-the-Bosanquet)
 
 (15) Lijun Liang, Hanxing Zhou, Jia-chen Li, **Qu Chen**, Linli Zhu*, Hao Ren, Data-Driven Design of Nanopore Graphene for Water Desalination, J. Phys. Chem. C 2021, 125, 50, 27685–27692. [PDF](https://pubs.acs.org/doi/10.1021/acs.jpcc.1c09470)
 
