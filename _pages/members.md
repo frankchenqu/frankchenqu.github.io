@@ -30,10 +30,11 @@ categories: pages
 
 ## Mentoring Experience
 **Lu Wang** master student (co-supervised with Prof. Yifeng Zhou)
-
-B.E. at Jiangsu Normal University
+*B.E. at Jiangsu Normal University
 
 ## Conference
+Diffusion Fundamentals X, **2023**, Tashkent, Uzbekistan. (Poster Session)
+
 The 11th International Conference on Molecular Simulations and Artificial Intelligence Application, **2023**, Chengdu, China
 
 The 3rd International Computational Science & Engineering Conference, **2019**, Doha, Qatar. (Oral Presentation)
