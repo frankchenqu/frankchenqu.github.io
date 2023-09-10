@@ -30,7 +30,7 @@ categories: pages
 
 ## Mentoring Experience
 **Lu Wang** master student (co-supervised with Prof. Yifeng Zhou)
-*B.E. at Jiangsu Normal University
+* B.E. at Jiangsu Normal University
 
 ## Conference
 Diffusion Fundamentals X, **2023**, Tashkent, Uzbekistan. (Poster Session)
