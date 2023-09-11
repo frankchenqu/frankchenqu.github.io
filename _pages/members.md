@@ -29,9 +29,7 @@ categories: pages
 **2007** **Summer Visitor** at North Carolina State University, Raleigh, NC, USA (advisor: Prof. Keith E. Gubbins) 
 
 ## Mentoring Experience
-* **Lu Wang** master student (co-supervised with Prof. Yifeng Zhou)
-
-B.E. at Jiangsu Normal University
+* **Lu Wang** master student (co-supervised with Prof. Yifeng Zhou)   B.E. at Jiangsu Normal University
 
 ## Conference
 Diffusion Fundamentals X, **2023**, Tashkent, Uzbekistan. (Poster Session)
