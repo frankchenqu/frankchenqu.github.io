@@ -11,7 +11,7 @@ toc_icon: "columns"
 ---
 
 ## Work in ZUST
-(17) Lu Wang, Yifeng Zhou, **Qu Chen***, AMMVF-DTI: A Novel Model Predicting Drug-Target Interactions Based on Attention Mechanism and Multi-View Fusion. Int. J. Mol. Sci. (in press)
+(17) Lu Wang, Yifeng Zhou, **Qu Chen***, AMMVF-DTI: A Novel Model Predicting Drug-Target Interactions Based on Attention Mechanism and Multi-View Fusion. Int. J. Mol. Sci., 2023, 24, 14142. [PDF](https://www.mdpi.com/1422-0067/24/18/14142)
 
 (16) **Qu Chen***, Jianping Zhou, Investigating the Validity of the Bosanquet Equation for Predicting the Self-diffusivities of Fluids inside Nanotubes Using Equilibrium Molecular Dynamics Simulations, AIP Adv., 2023, 13, 025338. [PDF](https://pubs.aip.org/aip/adv/article/13/2/025338/2877685/Investigating-the-validity-of-the-Bosanquet)
 
