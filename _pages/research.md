@@ -23,4 +23,4 @@ Understanding CO<sub>2</sub> absorption and diffusion in physical solvents (e.g.
 
 Drug delivery and discovery is at the heart of scientific community around the world. It is quite challenging to model transmembrane and transdermal drug delivery due to the structure complexity of skin barriers and cell membranes. Multiscale approaches are therefore badly needed, such as coarse-grain modelling, metadynamics, and QM/MM methods. Also, when physics-driven data meet data-driven perspectives, the process of drug and material discovery is likely to be accelerated.
 
-{% include figure image_path="/assets/images/IJMSgraabs.tif" caption="Framework of our proposed model AMMVF-DTI" %}
+{% include figure image_path="/assets/images/IJMSgraabs.jpg" caption="Framework of our proposed model AMMVF-DTI" %}
