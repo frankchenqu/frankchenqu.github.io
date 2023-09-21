@@ -33,6 +33,14 @@ categories: pages
 
 B.E. at Jiangsu Normal University
 
+**Jialong Gao** master student (co-supervised with Prof. Juan Huang) 
+
+B.E. at Changzhou University
+
+**Yuxue Pan** master student (co-supervised with Prof. Juan Huang) 
+
+B.E. at Changzhou University
+
 ## Conference
 Diffusion Fundamentals X, **2023**, Tashkent, Uzbekistan. (Poster Session)
 
