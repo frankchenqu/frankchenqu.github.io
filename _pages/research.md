@@ -5,7 +5,7 @@ permalink: /research/
 date: 2023-8-21
 categories: pages
 ---
-**I am currently using computer simulation methods and machine learning approaches to study the following topics:**
+**The ultimate goal of my research is to elucidate the molecular mechanisms of biological processes, and identify new strategies for pharmaceutical applications including drug delivery and drug discovery. Several ongoing topics are outlined as follows:**
 
 *(1) Developing and advancing theories in diffusion and adsorption in nanopores*
 
@@ -19,7 +19,7 @@ Understanding CO<sub>2</sub> absorption and diffusion in physical solvents (e.g.
 
 {% include figure image_path="/assets/images/MS2023TOC.gif" caption="Absorption of CO<sub>2</sub> in Four Physical Solvents using the Continuous Fractional Component Monte Carlo Method" %}
 
-*(3) Transmembrane and transdermal drug delivery as well as drug-target interaction prediction*
+*(3) Transmembrane drug delivery as well as drug-target interaction prediction*
 
 Drug delivery and discovery is at the heart of scientific community around the world. It is quite challenging to model transmembrane and transdermal drug delivery due to the structure complexity of skin barriers and cell membranes. Multiscale approaches are therefore badly needed, such as coarse-grain modelling, metadynamics, and QM/MM methods. Also, when physics-driven data meet data-driven perspectives, the process of drug and material discovery is likely to be accelerated.
 
