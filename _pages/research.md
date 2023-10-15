@@ -17,13 +17,13 @@ Carbon Nanotubes (CNTs), which feature hollow interior and smooth surface, can b
 
 Understanding CO<sub>2</sub> absorption and diffusion in physical solvents (e.g. propylene carbonate) and chemical solvents (e.g. monoethanolamine) is essential to develop the next generation of solvents that are affordable and recyclable. Computer simulation often serves as a tool to predict physical properties of CO<sub>2</sub> in the solvents, providing insights into industrial applications. However, with existing force fields, mixing rules, and simulation approaches, the accuracy of the simulation results still needs significant improvement. Conventional methods combined with machine-learning approaches are expected to address this issue.
 
-{% include figure image_path="/assets/images/MS2023TOC.gif" caption="Absorption of CO<sub>2</sub> in Four Physical Solvents using the Continuous Fractional Component Monte Carlo Method" %}
+{% include figure image_path="/assets/images/MS2023TOC.gif" caption="Absorption of CO<sub>2</sub> in Four Physical Solvents Using the Continuous Fractional Component Monte Carlo Method" %}
 
 *(3) Transmembrane drug delivery with carbon-based materials*
 
 While conventional drug delivery materials such as liposomes and hydrogels have played a role, novel drug delivery materials such as carbon nanotubes and graphenes require extensive theorical and experimental research. Molecular dynamics simulation can help understand the basic mechanism of transmembrane drug delivery at nanoscale. It is quite challenging to accurately model transmembrane drug delivery due to the structure complexity of cell membranes. Multiscale approaches are therefore badly needed, such as coarse-grain modelling, metadynamics, and QM/MM methods.
 
-{% include figure image_path="/assets/images/IJMSgraabs.jpg" caption="Framework of Our Proposed Model AMMVF-DTI" %}
+{% include figure image_path="/assets/images/ACSOMEGA2021TOC.gif" caption="Release of an Encapsulated Peptide from Carbon Nanotubes Driven by Electric Fields" %}
 
 *(4) Drug-target interaction prediction with deep learning and molecular dynamics*
 
