@@ -27,6 +27,6 @@ While conventional drug delivery materials such as liposomes and hydrogels have 
 
 *(4) Drug-target interaction prediction with deep learning and molecular dynamics*
 
-Even though experiments are the only key to examine the efficacy of drugs, the high cost of traditional wet-lab approach usually needs the help of in silico screening of compounds. Deep learning is a data-driven approach whereas molecular dynamics is a physics-based approach. A combinition of the two approaches can complement each other, consolidating many theoretical predictions, especially when applied to drug discovery. This part of work aims to contribute to the repurposing of existing drugs for new use.
+Even though experiments are the only key to examine the efficacy of drugs, traditional wet-lab approach usually needs the help of in silico screening of compounds owing to its high cost in time and money. Deep learning is a data-driven approach whereas molecular dynamics is a physics-based approach. A combinition of the two approaches can complement each other, consolidating many theoretical predictions, especially when applied to drug discovery. This part of work aims to contribute to the repurposing of existing drugs for new use.
 
 {% include figure image_path="/assets/images/IJMSgraabs.jpg" caption="Framework of Our Proposed Model AMMVF-DTI" %}
