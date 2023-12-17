@@ -44,7 +44,7 @@ B.E. at Changzhou University
 ## Conference
 Diffusion Fundamentals X, **2023**, Tashkent, Uzbekistan. (Poster Session)
 
-The 11th International Conference on Molecular Simulations and Artificial Intelligence Application, **2023**, Chengdu, China
+The 11th International Conference on Molecular Simulations and Artificial Intelligence Application, **2023**, Chengdu, China. (Attendee)
 
 The 3rd International Computational Science & Engineering Conference, **2019**, Doha, Qatar. (Oral Presentation)
 
