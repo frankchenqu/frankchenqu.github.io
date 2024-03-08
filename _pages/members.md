@@ -48,7 +48,7 @@ The 11th International Conference on Molecular Simulations and Artificial Intell
 
 The 3rd International Computational Science & Engineering Conference, **2019**, Doha, Qatar. (Oral Presentation)
 
-The 2019 International Workshop on Molecular Simulation, **2019**, Hangzhou, China. (Attendee)
+International Workshop on Molecular Simulation, **2019**, Hangzhou, China. (Attendee)
 
 Diffusion Fundamentals VIII, **2019**, Erlangen, Germany. (Poster Session)
 
