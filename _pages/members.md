@@ -29,17 +29,14 @@ categories: pages
 **2007** **Summer Visitor** at North Carolina State University, Raleigh, NC, USA (advisor: Prof. Keith E. Gubbins) 
 
 ## Mentoring Experience
-**Lu Wang** master student (co-supervised with Prof. Yifeng Zhou) 
-
+**Lu Wang** master student (co-supervised with Prof. Yifeng Zhou) [Thesis (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9sOdF4IwS2iOpl3RmlQAtNmKaxBD8BHLR8ApUnbQyja4ICsgZCe1ZPrmiu_pQy4-lGqSBiiqdEmq1hJ0bjbGARGOQIAChzDcDhxGFDfWsjVYHXaPZA_dWxKGIvoE1BlTf7t-ZfsXJVKmg==&uniplatform=NZKPT&language=CHS)
 B.E. at Jiangsu Normal University
-Thesis (in Chinese): https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9sOdF4IwS2iOpl3RmlQAtNmKaxBD8BHLR8ApUnbQyja4ICsgZCe1ZPrmiu_pQy4-lGqSBiiqdEmq1hJ0bjbGARGOQIAChzDcDhxGFDfWsjVYHXaPZA_dWxKGIvoE1BlTf7t-ZfsXJVKmg==&uniplatform=NZKPT&language=CHS
+
 
 **Jialong Gao** master student (co-supervised with Prof. Juan Huang) 
-
 B.E. at Changzhou University
 
 **Yuxue Pan** master student (co-supervised with Prof. Juan Huang) 
-
 B.E. at Changzhou University
 
 ## Conference
