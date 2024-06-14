@@ -11,7 +11,7 @@ toc_icon: "columns"
 ---
 
 ## Work in ZUST
-(18) **Qu Chen***, Jianping Zhou, Rong Sun, Carbon Nanotube Loading Strategies for Peptide Drugs: Insights from Molecular Dynamics Simulations (accepted). [PDF](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c00973)
+(18) **Qu Chen***, Jianping Zhou, Rong Sun, Carbon Nanotube Loading Strategies for Peptide Drugs: Insights from Molecular Dynamics Simulations (accepted). 
 
 (17) Lu Wang, Yifeng Zhou, **Qu Chen***, AMMVF-DTI: A Novel Model Predicting Drug-Target Interactions Based on Attention Mechanism and Multi-View Fusion, Int. J. Mol. Sci., 2023, 24, 14142. [PDF](https://www.mdpi.com/1422-0067/24/18/14142)
 
