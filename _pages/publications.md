@@ -11,7 +11,7 @@ toc_icon: "columns"
 ---
 
 ## Work in ZUST
-(19) Hongze Fu, Yinbang Zhu, **Qu Chen*** Free Energy Calculations in Biomolecule-Nanomaterial Interactions, submitted.
+(19) Hongze Fu, Yinbang Zhu, **Qu Chen***, Free Energy Calculations in Biomolecule-Nanomaterial Interactions, submitted.
 
 (18) **Qu Chen***, Jianping Zhou, Rong Sun, Carbon Nanotube Loading Strategies for Peptide Drugs: Insights from Molecular Dynamics Simulations, Langmuir, 2024. [PDF](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c00973) 
 
