@@ -39,7 +39,7 @@ toc_icon: "columns"
 (7) **Qu Chen**, Sayee P. Balaji, Mahinder Ramdin, Juan. J. Gutiérrez-Sevillano, Andre Bardow, Earl Goetheer, Thijs J. H. Vlugt*, Validation of CO<sub>2</sub>/N<sub>2</sub>O Analogy Using Molecular Simulation, Ind. Eng. Chem. Res., 2014, 53(46): 18081-18090. [PDF](https://pubs.acs.org/doi/10.1021/ie503488n)
 
 ## Work in ZJU
-(6) **Qu Chen**&#42;, Lijun Liang, Zhisen Zhang, Qi Wang&#42;, Release of an Encapsulated Peptide from Carbon Nanotubes Driven by Electric Fields: A Molecular Dynamics Study, ACS Omega, 2021, 6 (41): 27485-27490. [PDF](https://pubs.acs.org/doi/10.1021/acsomega.1c04436)
+(6) **Qu Chen**&#42;, Lijun Liang, Zhisen Zhang, Qi Wang, Release of an Encapsulated Peptide from Carbon Nanotubes Driven by Electric Fields: A Molecular Dynamics Study, ACS Omega, 2021, 6 (41): 27485-27490. [PDF](https://pubs.acs.org/doi/10.1021/acsomega.1c04436)
 
 (5) **Qu Chen**, Qi Wang*, Yingchun Liu, Tao Wu, The Effect of Hydrogen Bonds on Diffusion Mechanism of Water inside Single-Walled Carbon Nanotubes, J. Chem. Phys, 2014, 140: 214507. [PDF](https://pubs.aip.org/aip/jcp/article-abstract/140/21/214507/566652/The-effect-of-hydrogen-bonds-on-diffusion?redirectedFrom=fulltext)
 
