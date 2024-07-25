@@ -1,1 +1,1 @@
-# [My Personal Website](https://frankquchen.github.io/index.html)
+# [My Personal Website](https://frankquchen.github.io)
