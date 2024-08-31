@@ -15,7 +15,7 @@ toc_icon: "columns"
 
 (19) Hongze Fu, Yinbang Zhu, **Qu Chen***, Free Energy Calculations in Biomolecule-Nanomaterial Interactions, submitted.
 
-(18) **Qu Chen***, Jianping Zhou, Rong Sun, Carbon Nanotube Loading Strategies for Peptide Drugs: Insights from Molecular Dynamics Simulations, Langmuir, 2024. [PDF](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c00973) 
+(18) **Qu Chen***, Jianping Zhou, Rong Sun, Carbon Nanotube Loading Strategies for Peptide Drugs: Insights from Molecular Dynamics Simulations, Langmuir, 2024, 40, 26, 13515–13526. [PDF](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c00973) 
 
 (17) Lu Wang, Yifeng Zhou, **Qu Chen***, AMMVF-DTI: A Novel Model Predicting Drug-Target Interactions Based on Attention Mechanism and Multi-View Fusion, Int. J. Mol. Sci., 2023, 24, 14142. [PDF](https://www.mdpi.com/1422-0067/24/18/14142)
 
