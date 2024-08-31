@@ -15,13 +15,13 @@ toc_icon: "columns"
 
 (19) Hongze Fu, Yinbang Zhu, **Qu Chen***, Free Energy Calculations in Biomolecule-Nanomaterial Interactions, submitted.
 
-(18) **Qu Chen***, Jianping Zhou, Rong Sun, Carbon Nanotube Loading Strategies for Peptide Drugs: Insights from Molecular Dynamics Simulations, Langmuir, 2024, 40, 26, 13515–13526. [PDF](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c00973) 
+(18) **Qu Chen***, Jianping Zhou, Rong Sun, Carbon Nanotube Loading Strategies for Peptide Drugs: Insights from Molecular Dynamics Simulations, Langmuir, 2024, 40(26): 13515–13526. [PDF](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c00973) 
 
 (17) Lu Wang, Yifeng Zhou, **Qu Chen***, AMMVF-DTI: A Novel Model Predicting Drug-Target Interactions Based on Attention Mechanism and Multi-View Fusion, Int. J. Mol. Sci., 2023, 24, 14142. [PDF](https://www.mdpi.com/1422-0067/24/18/14142)
 
 (16) **Qu Chen***, Jianping Zhou, Investigating the Validity of the Bosanquet Equation for Predicting the Self-diffusivities of Fluids inside Nanotubes Using Equilibrium Molecular Dynamics Simulations, AIP Adv., 2023, 13, 025338. [PDF](https://pubs.aip.org/aip/adv/article/13/2/025338/2877685/Investigating-the-validity-of-the-Bosanquet)
 
-(15) Lijun Liang, Hanxing Zhou, Jia-chen Li, **Qu Chen**, Linli Zhu*, Hao Ren, Data-Driven Design of Nanopore Graphene for Water Desalination, J. Phys. Chem. C 2021, 125, 50, 27685–27692. [PDF](https://pubs.acs.org/doi/10.1021/acs.jpcc.1c09470)
+(15) Lijun Liang, Hanxing Zhou, Jia-chen Li, **Qu Chen**, Linli Zhu*, Hao Ren, Data-Driven Design of Nanopore Graphene for Water Desalination, J. Phys. Chem. C 2021, 125(50): 27685–27692. [PDF](https://pubs.acs.org/doi/10.1021/acs.jpcc.1c09470)
 
 (14) Cai Yao, Zhengzhong Kang, Bin Yu, **Qu Chen**, Yingchun Liu, Qi Wang*, All-Factor Analysis and Correlations on the Transmembrane Process for Arginine-Rich Cell-Penetrating Peptides, Langmuir, 2019, 35(28), 9286-9296. [PDF](https://pubs.acs.org/doi/10.1021/acs.langmuir.9b01169)
 
