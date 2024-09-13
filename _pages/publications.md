@@ -13,7 +13,7 @@ toc_icon: "columns"
 ## Work in ZUST
 (20) **Qu Chen***, Linkai Yu, Xiaoyu Han, Understanding Protein Adsorption on Carbon Nanotube Inner and Outer Surfaces by Molecular Dynamics Simulations, submitted.
 
-(19) Hongze Fu, Yinbang Zhu, **Qu Chen***, Free Energy Calculations in Biomolecule-Nanomaterial Interactions, submitted.
+(19) Hongze Fu, Yinbang Zhu, **Qu Chen***, Free Energy Calculations in Biomolecule-Nanomaterial Interactions, Front. Phys., 2024, 12: 1469515. [PDF](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1469515/full)
 
 (18) **Qu Chen***, Jianping Zhou, Rong Sun, Carbon Nanotube Loading Strategies for Peptide Drugs: Insights from Molecular Dynamics Simulations, Langmuir, 2024, 40(26): 13515–13526. [PDF](https://pubs.acs.org/doi/10.1021/acs.langmuir.4c00973) 
 
