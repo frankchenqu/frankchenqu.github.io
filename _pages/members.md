@@ -43,6 +43,10 @@ B.E. at Changzhou University
 B.E. at Changzhou University
 
 ## Conference
+The 28th Thermodynamics Conference, **2024**, Delft, the Netherlands. (Poster Session)
+
+The 6th International Conference on Applied Surface Science, **2024**, Wuzhen, Zhejiang, China. (Poster Session)
+
 Diffusion Fundamentals X, **2023**, Tashkent, Uzbekistan. (Poster Session)
 
 The 11th International Conference on Molecular Simulations and Artificial Intelligence Application, **2023**, Chengdu, China. (Attendee)
