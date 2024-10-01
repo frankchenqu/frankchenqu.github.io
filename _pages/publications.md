@@ -11,6 +11,8 @@ toc_icon: "columns"
 ---
 
 ## Work in ZUST
+(21) **Qu Chen***, Loading α-Helical Peptide Drugs onto Nanotubes: Influence of Surface Curvature and van der Waals interactions, submitted.
+
 (20) **Qu Chen***, Linkai Yu, Xiaoyu Han, Understanding Protein Adsorption on Carbon Nanotube Inner and Outer Surfaces by Molecular Dynamics Simulations, submitted.
 
 (19) Hongze Fu, Yinbang Zhu, **Qu Chen***, Free Energy Calculations in Biomolecule-Nanomaterial Interactions, Front. Phys., 2024, 12: 1469515. [PDF](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1469515/full)
