@@ -29,11 +29,11 @@ toc_icon: "columns"
 
 (14) Cai Yao, Zhengzhong Kang, Bin Yu, **Qu Chen**, Yingchun Liu, Qi Wang*, All-Factor Analysis and Correlations on the Transmembrane Process for Arginine-Rich Cell-Penetrating Peptides, Langmuir, 2019, 35(28), 9286-9296. [PDF](https://pubs.acs.org/doi/10.1021/acs.langmuir.9b01169)
 
-(13) Xiaoyu Han*, Can Ye, Fenfen Chen, **Qu Chen**, Yongjiang Wang, Xiaofei Zeng, A Highly Enantioselective Friedel-Crafts Reaction of 3,5-dimethoxylphenol with Nitroolefins Mediated by a Bifunctional Quinine Derived Thiourea Catalyst, Org. Biomol. Chem., 2017, 15(16): 3401-3407. [PDF](https://pubs.rsc.org/en/content/articlelanding/2017/ob/c7ob00372b)
+(13) Xiaoyu Han\*, Can Ye, Fenfen Chen, **Qu Chen**, Yongjiang Wang\*, Xiaofei Zeng\*, A Highly Enantioselective Friedel-Crafts Reaction of 3,5-dimethoxylphenol with Nitroolefins Mediated by a Bifunctional Quinine Derived Thiourea Catalyst, Org. Biomol. Chem., 2017, 15(16): 3401-3407. [PDF](https://pubs.rsc.org/en/content/articlelanding/2017/ob/c7ob00372b)
 
 (12) Baojian Liu*, Yong Peng, **Qu Chen**, Adsorption of N/S-Heteroaromatic Compounds from Fuels by Functionalized MIL-101(Cr) Metal-Organic Framework: The Impact of Surface Functional Groups, Energy Fuels, 2016, 30(7): 5593-5600. [PDF](https://pubs.acs.org/doi/10.1021/acs.energyfuels.6b00858)
 
-(11) Debing Li, Wei Hu, Junqiao Zhang, Hui Shi, **Qu Chen**, Tianyang Sun, Lijun Liang, Qi Wang*, Separation of Hydrogen Gas from Coal Gas by Graphene Nanopores, J. Phys. Chem. C, 2015, 119(45): 25559-25565. [PDF](https://pubs.acs.org/doi/10.1021/acs.jpcc.5b06165)
+(11) Debing Li, Wei Hu, Junqiao Zhang, Hui Shi, **Qu Chen**, Tianyang Sun, Lijun Liang\*, Qi Wang\*, Separation of Hydrogen Gas from Coal Gas by Graphene Nanopores, J. Phys. Chem. C, 2015, 119(45): 25559-25565. [PDF](https://pubs.acs.org/doi/10.1021/acs.jpcc.5b06165)
 
 ## Work in TUD
 (10) **Qu Chen**, Mahinder Ramdin, Thijs J. H. Vlugt*, Solubilities of CO<sub>2</sub>, CH<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, CO, H<sub>2</sub>, N<sub>2</sub>, N<sub>2</sub>O, and H<sub>2</sub>S in Commercial Physical Solvents from Monte Carlo Simulations, Mol. Simulat., 2023, 49: 1341-1349. [PDF](https://www.tandfonline.com/doi/full/10.1080/08927022.2023.2228918)
