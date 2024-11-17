@@ -10,6 +10,8 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 
+Total citations 358 as of 2024/11/18; H-index = 11.
+
 ## Work in ZUST
 (22) Juan Huang, Yiqi Ye, Sisi Fan, Qianwen Zhu, Jianwei Wang\*, **Qu Chen**\*, Preparation, Optimization and Targeted Release of Chitosan Quaternary Ammonium Salt Thermosensitive Hydrogels, submitted.
 
