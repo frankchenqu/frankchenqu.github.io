@@ -15,7 +15,7 @@ Total citations 358 as of 2024/11/18; H-index = 11.
 ## Work in ZUST
 (22) Juan Huang, Yiqi Ye, Sisi Fan, Qianwen Zhu, Jianwei Wang\*, **Qu Chen**\*, Preparation, Optimization and Targeted Release of Chitosan Quaternary Ammonium Salt Thermosensitive Hydrogels, submitted.
 
-(21) **Qu Chen***, Loading α-Helical Peptide Drugs onto Nanotubes: Influence of Surface Curvature and van der Waals interactions, submitted.
+(21) **Qu Chen***, Loading α-Helical Peptide Drugs onto Nanotubes: Influence of Surface Curvature and van der Waals Interactions, submitted.
 
 (20) **Qu Chen***, Linkai Yu, Xiaoyu Han, Understanding Protein Adsorption on Carbon Nanotube Inner and Outer Surfaces by Molecular Dynamics Simulations, submitted.
 
