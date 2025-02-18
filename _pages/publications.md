@@ -17,7 +17,7 @@ Total citations 356 as of 2024/11/22; H-index = 11.
 
 (21) **Qu Chen***, Loading α-Helical Peptide Drugs onto Nanotubes: Influence of Surface Curvature and van der Waals/Electrostatic Interactions, Appl. Surf. Sci., 2025, 688: 162467. [PDF](https://authors.elsevier.com/a/1kTwMcXa-C7j9)
 
-(20) **Qu Chen***, Linkai Yu, Xiaoyu Han, Understanding Protein Adsorption on Carbon Nanotube Inner and Outer Surfaces by Molecular Dynamics Simulations, submitted.
+(20) **Qu Chen***, Linkai Yu, Xiaoyu Han, Understanding Protein Adsorption on Carbon Nanotube Inner and Outer Surfaces by Molecular Dynamics Simulations, Langmuir, 2025, 41(6): 4318–4333. [PDF]([https://pubs.acs.org/doi/10.1021/acs.langmuir.4c05037])
 
 (19) Hongze Fu, Yinbang Zhu, **Qu Chen***, Free Energy Calculations in Biomolecule-Nanomaterial Interactions, Front. Phys., 2024, 12: 1469515. [PDF](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1469515/full)
 
