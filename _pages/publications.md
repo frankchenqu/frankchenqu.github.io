@@ -12,7 +12,7 @@ toc_icon: "columns"
 
 Total citations 375 as of 2025/2/20; H-index = 11.
 
-## Work in ZUST
+## Work at ZUST
 (22) Juan Huang, Yiqi Ye, Sisi Fan, Qianwen Zhu, Jianwei Wang\*, **Qu Chen**\*, Preparation, Optimization, and Targeted Release of Chitosan Quaternary Ammonium Salt Thermosensitive Hydrogels, ChemistrySelect, 2025, 10(7): e202405742. [PDF](https://doi.org/10.1002/slct.202405742)
 
 (21) **Qu Chen***, Loading α-Helical Peptide Drugs onto Nanotubes: Influence of Surface Curvature and van der Waals/Electrostatic Interactions, Appl. Surf. Sci., 2025, 688: 162467. [PDF](https://doi.org/10.1016/j.apsusc.2025.162467)
@@ -37,7 +37,7 @@ Total citations 375 as of 2025/2/20; H-index = 11.
 
 (11) Debing Li, Wei Hu, Junqiao Zhang, Hui Shi, **Qu Chen**, Tianyang Sun, Lijun Liang\*, Qi Wang\*, Separation of Hydrogen Gas from Coal Gas by Graphene Nanopores, J. Phys. Chem. C, 2015, 119(45): 25559-25565. [PDF](https://doi.org/10.1021/acs.jpcc.5b06165)
 
-## Work in TUD
+## Work at TUD
 (10) **Qu Chen**, Mahinder Ramdin, Thijs J. H. Vlugt*, Solubilities of CO<sub>2</sub>, CH<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, CO, H<sub>2</sub>, N<sub>2</sub>, N<sub>2</sub>O, and H<sub>2</sub>S in Commercial Physical Solvents from Monte Carlo Simulations, Mol. Simulat., 2023, 49: 1341-1349. [PDF](https://doi.org/10.1080/08927022.2023.2228918)
 
 (9) Mahinder Ramdin, **Qu Chen**, Sayee P. Balaji, Jose M. Vicent-Luna, Ariana Torres-Knoop, David Dubbledam, Sofia Calero, Theo. W. de Loo, Thijs J. H. Vlugt*, Solubilities of CO<sub>2</sub>, CH<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, and SO<sub>2</sub> in Ionic Liquids and Selexol from Monte Carlo Simulations, J. Comput. Sci., 2016, 15: 74-80. [PDF](https://doi.org/10.1016/j.jocs.2015.09.002)
@@ -46,7 +46,7 @@ Total citations 375 as of 2025/2/20; H-index = 11.
 
 (7) **Qu Chen**, Sayee P. Balaji, Mahinder Ramdin, Juan. J. Gutiérrez-Sevillano, Andre Bardow, Earl Goetheer, Thijs J. H. Vlugt*, Validation of CO<sub>2</sub>/N<sub>2</sub>O Analogy Using Molecular Simulation, Ind. Eng. Chem. Res., 2014, 53(46): 18081-18090. [PDF](https://doi.org/10.1021/ie503488n)
 
-## Work in ZJU
+## Work at ZJU
 (6) **Qu Chen**\*, Lijun Liang, Zhisen Zhang, Qi Wang\*, Release of an Encapsulated Peptide from Carbon Nanotubes Driven by Electric Fields: A Molecular Dynamics Study, ACS Omega, 2021, 6 (41): 27485-27490. [PDF](https://doi.org/10.1021/acsomega.1c04436)
 
 (5) **Qu Chen**, Qi Wang*, Yingchun Liu, Tao Wu, The Effect of Hydrogen Bonds on Diffusion Mechanism of Water inside Single-Walled Carbon Nanotubes, J. Chem. Phys, 2014, 140: 214507. [PDF](https://doi.org/10.1063/1.4879796)
