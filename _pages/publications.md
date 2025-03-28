@@ -13,6 +13,8 @@ toc_icon: "columns"
 Total citations 375 as of 2025/2/20; H-index = 11.
 
 ## Work at ZUST
+(23) **Qu Chen***, Molecular Insights into the Impact of Nanotube Confinement on Protein α-Helical Structures, submitted.
+
 (22) Juan Huang, Yiqi Ye, Sisi Fan, Qianwen Zhu, Jianwei Wang\*, **Qu Chen**\*, Preparation, Optimization, and Targeted Release of Chitosan Quaternary Ammonium Salt Thermosensitive Hydrogels, ChemistrySelect, 2025, 10(7): e202405742. [PDF](https://doi.org/10.1002/slct.202405742)
 
 (21) **Qu Chen***, Loading α-Helical Peptide Drugs onto Nanotubes: Influence of Surface Curvature and van der Waals/Electrostatic Interactions, Appl. Surf. Sci., 2025, 688: 162467. [PDF](https://doi.org/10.1016/j.apsusc.2025.162467)
