@@ -10,7 +10,7 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 
-Total citations 375 as of 2025/2/20; H-index = 11.
+Web of Science (Clarivate) Total citations 396 as of 2025/6/15; H-index = 12.
 
 ## Work at ZUST
 (23) **Qu Chen***, Molecular Insights into the Impact of Nanotube Confinement on Protein α-Helical Structures, submitted.
@@ -40,7 +40,7 @@ Total citations 375 as of 2025/2/20; H-index = 11.
 (11) Debing Li, Wei Hu, Junqiao Zhang, Hui Shi, **Qu Chen**, Tianyang Sun, Lijun Liang\*, Qi Wang\*, Separation of Hydrogen Gas from Coal Gas by Graphene Nanopores, J. Phys. Chem. C, 2015, 119(45): 25559-25565. [PDF](https://doi.org/10.1021/acs.jpcc.5b06165)
 
 ## Work at TUD
-(10) **Qu Chen**, Mahinder Ramdin, Thijs J. H. Vlugt*, Solubilities of CO<sub>2</sub>, CH<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, CO, H<sub>2</sub>, N<sub>2</sub>, N<sub>2</sub>O, and H<sub>2</sub>S in Commercial Physical Solvents from Monte Carlo Simulations, Mol. Simulat., 2023, 49: 1341-1349. [PDF](https://doi.org/10.1080/08927022.2023.2228918)
+(10) **Qu Chen**, Mahinder Ramdin, Thijs J. H. Vlugt*, Solubilities of CO<sub>2</sub>, CH<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, CO, H<sub>2</sub>, N<sub>2</sub>, N<sub>2</sub>O, and H<sub>2</sub>S in Commercial Physical Solvents from Monte Carlo Simulations, Mol. Simulat., 2023, 49: 1341-1349. [PDF](https://doi.org/10.1080/08927022.2023.2228918) SI [PDF](https://drive.google.com/file/d/1xLP09tJLzh8gtMWH0BMub_SC6jb5aIfn/view?usp=drive_link)
 
 (9) Mahinder Ramdin, **Qu Chen**, Sayee P. Balaji, Jose M. Vicent-Luna, Ariana Torres-Knoop, David Dubbledam, Sofia Calero, Theo. W. de Loo, Thijs J. H. Vlugt*, Solubilities of CO<sub>2</sub>, CH<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, and SO<sub>2</sub> in Ionic Liquids and Selexol from Monte Carlo Simulations, J. Comput. Sci., 2016, 15: 74-80. [PDF](https://doi.org/10.1016/j.jocs.2015.09.002)
 
