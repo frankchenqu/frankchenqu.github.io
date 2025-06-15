@@ -21,7 +21,7 @@ Understanding CO<sub>2</sub> absorption and diffusion in physical solvents (e.g.
 
 *(3) Transmembrane drug delivery with carbon-based materials*
 
-While conventional drug delivery materials such as liposomes and hydrogels have played a role, novel drug delivery materials such as carbon nanotubes and graphenes require extensive theorical and experimental research. Molecular dynamics simulation can help understand the basic mechanism of transmembrane drug delivery at nanoscale. It is quite challenging to accurately model transmembrane drug delivery due to the structure complexity of cell membranes. Multiscale approaches are therefore badly needed, such as coarse-grain modelling, metadynamics, and QM/MM methods.
+While conventional drug delivery materials such as liposomes and hydrogels have played a role, novel drug delivery materials such as carbon nanotubes and graphenes require extensive theoretical and experimental research. Molecular dynamics simulation can help understand the basic mechanism of transmembrane drug delivery at nanoscale. It is quite challenging to accurately model transmembrane drug delivery due to the structure complexity of cell membranes. Multiscale approaches are therefore badly needed, such as coarse-grain modelling, metadynamics, and QM/MM methods.
 
 {% include figure image_path="/assets/images/ACSOMEGA2021TOC.gif" caption="Release of an Encapsulated Peptide from Carbon Nanotubes Driven by Electric Fields" %}
 
