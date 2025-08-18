@@ -10,10 +10,10 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 
-Web of Science (Clarivate) Total citations 396 as of 2025/6/15; H-index = 12.
+Web of Science (Clarivate) Total citations 400 as of 2025/8/18; H-index = 12.
 
 ## Work at ZUST
-(24) Juan Huang, Jialong Gao, **Qu Chen***, An Interpretable Deep Learning and Molecular Docking Framework for Repurposing SARS-CoV-2 Main Protease Inhibitors, submitted.
+(24) Juan Huang, Jialong Gao, **Qu Chen***, An Interpretable Deep Learning and Molecular Docking Framework for Repurposing Existing Drugs as Inhibitors of SARS-CoV-2 Main Protease, Molecules, 2025, 30(16): 3409. [PDF](https://doi.org/10.3390/molecules30163409).
 
 (23) **Qu Chen***, Molecular Insights into the Impact of Nanotube Confinement on Protein α-Helical Structures, submitted.
 
