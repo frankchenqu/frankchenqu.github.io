@@ -29,7 +29,7 @@ Web of Science (Clarivate) Total citations 427 as of 2025/11/29; H-index = 12.
 
 (18) **Qu Chen***, Jianping Zhou, Rong Sun, Carbon Nanotube Loading Strategies for Peptide Drugs: Insights from Molecular Dynamics Simulations, Langmuir, 2024, 40(26): 13515–13526. [PDF](https://doi.org/10.1021/acs.langmuir.4c00973) 
 
-(17) Lu Wang, Yifeng Zhou, **Qu Chen***, AMMVF-DTI: A Novel Model Predicting Drug-Target Interactions Based on Attention Mechanism and Multi-View Fusion, Int. J. Mol. Sci., 2023, 24, 14142. [PDF](https://doi.org/10.3390/ijms241814142)
+(17) Lu Wang, Yifeng Zhou, **Qu Chen***, AMMVF-DTI: A Novel Model Predicting Drug–Target Interactions Based on Attention Mechanism and Multi-View Fusion, Int. J. Mol. Sci., 2023, 24, 14142. [PDF](https://doi.org/10.3390/ijms241814142)
 
 (16) **Qu Chen***, Jianping Zhou, Investigating the Validity of the Bosanquet Equation for Predicting the Self-diffusivities of Fluids inside Nanotubes Using Equilibrium Molecular Dynamics Simulations, AIP Adv., 2023, 13, 025338. [PDF](https://doi.org/10.1063/5.0137310)
 
