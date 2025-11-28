@@ -10,9 +10,11 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 
-Web of Science (Clarivate) Total citations 411 as of 2025/9/4; H-index = 12.
+Web of Science (Clarivate) Total citations 427 as of 2025/11/29; H-index = 12.
 
 ## Work at ZUST
+(25) Juan Huang, Yuxue Pan, **Rong Sun***, **Qu Chen***, MSCMF-DTB: A Multi-Scale Cross-Modal Fusion Framework for Drug–Target Binding Prediction (submitted)
+
 (24) Juan Huang, Jialong Gao, **Qu Chen***, An Interpretable Deep Learning and Molecular Docking Framework for Repurposing Existing Drugs as Inhibitors of SARS-CoV-2 Main Protease, Molecules, 2025, 30(16): 3409. [PDF](https://doi.org/10.3390/molecules30163409)
 
 (23) **Qu Chen***, Molecular Insights into the Impact of Nanotube Confinement on Protein α-Helical Structures, Mol. Phys., 2025. [PDF](https://doi.org/10.1080/00268976.2025.2556847)
