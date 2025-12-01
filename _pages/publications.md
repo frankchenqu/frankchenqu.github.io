@@ -10,7 +10,7 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 
-Web of Science (Clarivate) Total citations 427 as of 2025/11/29; H-index = 12.
+Web of Science (Clarivate) Total citations 429 as of 2025/12/2; H-index = 12.
 
 ## Work at ZUST
 (25) Juan Huang, Yuxue Pan, Rong Sun\*, **Qu Chen**\*, MSCMF-DTB: A Multi-Scale Cross-Modal Fusion Framework for Drug–Target Binding Prediction (submitted)
