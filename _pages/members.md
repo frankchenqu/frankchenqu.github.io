@@ -33,7 +33,6 @@ categories: pages
 
 B.E. at Jiangsu Normal University
 
-
 **Jialong Gao** master student (co-supervised with Prof. Juan Huang) 
 
 B.E. at Changzhou University
@@ -41,6 +40,18 @@ B.E. at Changzhou University
 **Yuxue Pan** master student (co-supervised with Prof. Juan Huang) 
 
 B.E. at Changzhou University
+
+**Grazielia Chrisna Ganga** master student
+
+B.E. at Zhejiang University of Science and Technology
+
+**Zhenjie Zhao** master student (co-supervised with Prof. Junfeng Niu) 
+
+B.E. at Zhangjiakou University
+
+**Xu Wang** master student (co-supervised with Prof. Juan Huang) 
+
+B.E. at Chuzhou University
 
 ## Conference
 The 28th Thermodynamics Conference, **2024**, Delft, the Netherlands. (Poster Session)
