@@ -31,27 +31,27 @@ categories: pages
 ## Mentoring Experience
 **Lu Wang** master student (co-supervised with Prof. Yifeng Zhou) [Thesis (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9sOdF4IwS2iOpl3RmlQAtNmKaxBD8BHLR8ApUnbQyja4ICsgZCe1ZPrmiu_pQy4-lGqSBiiqdEmq1hJ0bjbGARGOQIAChzDcDhxGFDfWsjVYHXaPZA_dWxKGIvoE1BlTf7t-ZfsXJVKmg==&uniplatform=NZKPT&language=CHS)
 
-B.E. at Jiangsu Normal University
+B.Eng. at Jiangsu Normal University Kewen College
 
 **Jialong Gao** master student (co-supervised with Prof. Juan Huang) 
 
-B.E. at Changzhou University
+B.Eng. at Changzhou University
 
 **Yuxue Pan** master student (co-supervised with Prof. Juan Huang) 
 
-B.E. at Changzhou University
+B.Eng. at Changzhou University
 
 **Grazielia Chrisna Ganga** master student
 
-B.E. at Zhejiang University of Science and Technology
+B.Eng. at Zhejiang University of Science and Technology
 
 **Zhenjie Zhao** master student (co-supervised with Prof. Junfeng Niu) 
 
-B.E. at Zhangjiakou University
+B.Eng. at Zhangjiakou University
 
 **Xu Wang** master student (co-supervised with Prof. Juan Huang) 
 
-B.E. at Chuzhou University
+B.Mgt. at Chuzhou University
 
 ## Conference
 The 28th Thermodynamics Conference, **2024**, Delft, the Netherlands. (Poster Session)
