@@ -9,7 +9,7 @@ categories: pages
 ## Education and Employment
 **2015.6-present**
 
-**Lecturer** at Zhejiang University of Science and Technology
+**Assistant Professor** at Zhejiang University of Science and Technology
 
 **2014.2-2015.2**
 
