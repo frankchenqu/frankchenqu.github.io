@@ -10,9 +10,11 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 
-Web of Science (Clarivate) Total citations 429 as of 2025/12/2; H-index = 12.
+Web of Science (Clarivate) Total citations 435 as of 2026/1/7; H-index = 12.
 
 ## Work at ZUST
+(26) Juan Huang, Yuxue Pan, Fangfang Fan, **Qu Chen***, AI-Assisted Molecular Docking and Molecular Dynamics Simulations for Predicting Off-Target Effects of AKT1 ATP-Competitive Inhibitors (submitted)
+
 (25) Juan Huang, Yuxue Pan, **Qu Chen***, MSCMF-DTB: A Multi-Scale Cross-Modal Fusion Framework for Drug–Target Binding Prediction (submitted)
 
 (24) Juan Huang, Jialong Gao, **Qu Chen***, An Interpretable Deep Learning and Molecular Docking Framework for Repurposing Existing Drugs as Inhibitors of SARS-CoV-2 Main Protease, Molecules, 2025, 30(16): 3409. [PDF](https://doi.org/10.3390/molecules30163409)
