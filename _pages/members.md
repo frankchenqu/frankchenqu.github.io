@@ -17,6 +17,10 @@ categories: pages
 
 **2007.9-2013.12**
 
+**Yuxue Pan** master student (co-supervised with Prof. Juan Huang) 
+
+B.Eng. at Changzhou University
+
 **Ph.D.** at Zhejiang University, Hangzhou, China (advisor: Prof. Qi Wang)
 
 **2003.9-2007.6**
@@ -29,15 +33,20 @@ categories: pages
 **2007** **Summer Visitor** at North Carolina State University, Raleigh, NC, USA (advisor: Prof. Keith E. Gubbins) 
 
 ## Mentoring Experience
-**Lu Wang** master student (co-supervised with Prof. Yifeng Zhou) [Thesis (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9sOdF4IwS2iOpl3RmlQAtNmKaxBD8BHLR8ApUnbQyja4ICsgZCe1ZPrmiu_pQy4-lGqSBiiqdEmq1hJ0bjbGARGOQIAChzDcDhxGFDfWsjVYHXaPZA_dWxKGIvoE1BlTf7t-ZfsXJVKmg==&uniplatform=NZKPT&language=CHS)
 
-B.Eng. at Jiangsu Normal University Kewen College
+**Xu Wang** master student (co-supervised with Prof. Juan Huang) 
 
-**Jialong Gao** master student (co-supervised with Prof. Juan Huang) 
+B.Mgt. at Chuzhou University
+
+**Zhenjie Zhao** master student (co-supervised with Prof. Junfeng Niu) 
+
+B.Eng. at Zhangjiakou University
+
+**Yuxue Pan** master student (co-supervised with Prof. Juan Huang) 
 
 B.Eng. at Changzhou University
 
-**Yuxue Pan** master student (co-supervised with Prof. Juan Huang) 
+**Jialong Gao** master student (co-supervised with Prof. Juan Huang) 
 
 B.Eng. at Changzhou University
 
@@ -45,13 +54,9 @@ B.Eng. at Changzhou University
 
 B.Eng. at Zhejiang University of Science and Technology
 
-**Zhenjie Zhao** master student (co-supervised with Prof. Junfeng Niu) 
+**Lu Wang** master student (co-supervised with Prof. Yifeng Zhou) [Thesis (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9sOdF4IwS2iOpl3RmlQAtNmKaxBD8BHLR8ApUnbQyja4ICsgZCe1ZPrmiu_pQy4-lGqSBiiqdEmq1hJ0bjbGARGOQIAChzDcDhxGFDfWsjVYHXaPZA_dWxKGIvoE1BlTf7t-ZfsXJVKmg==&uniplatform=NZKPT&language=CHS)
 
-B.Eng. at Zhangjiakou University
-
-**Xu Wang** master student (co-supervised with Prof. Juan Huang) 
-
-B.Mgt. at Chuzhou University
+B.Eng. at Jiangsu Normal University Kewen College
 
 ## Conference
 The 28th Thermodynamics Conference, **2024**, Delft, the Netherlands. (Poster Session)
