@@ -17,10 +17,6 @@ categories: pages
 
 **2007.9-2013.12**
 
-**Yuxue Pan** master student (co-supervised with Prof. Juan Huang) 
-
-B.Eng. at Changzhou University
-
 **Ph.D.** at Zhejiang University, Hangzhou, China (advisor: Prof. Qi Wang)
 
 **2003.9-2007.6**
