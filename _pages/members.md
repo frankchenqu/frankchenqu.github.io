@@ -48,7 +48,7 @@ B.Eng. at Changzhou University
 
 **Lu Wang** master student (co-supervised with Prof. Yifeng Zhou) [Thesis (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9sOdF4IwS2iOpl3RmlQAtNmKaxBD8BHLR8ApUnbQyja4ICsgZCe1ZPrmiu_pQy4-lGqSBiiqdEmq1hJ0bjbGARGOQIAChzDcDhxGFDfWsjVYHXaPZA_dWxKGIvoE1BlTf7t-ZfsXJVKmg==&uniplatform=NZKPT&language=CHS)
 
-B.Eng. at Jiangsu Normal University
+B.Eng. at Jiangsu Normal University Kewen College
 
 ## Conference
 The 28th Thermodynamics Conference, **2024**, Delft, the Netherlands. (Poster Session)
