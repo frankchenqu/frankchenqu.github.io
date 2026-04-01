@@ -30,10 +30,6 @@ categories: pages
 
 ## Mentoring Experience
 
-**Xu Wang** master student (co-supervised with Prof. Juan Huang) 
-
-B.Mgt. at Chuzhou University
-
 **Zhenjie Zhao** master student (co-supervised with Prof. Junfeng Niu) 
 
 B.Eng. at Zhangjiakou University
