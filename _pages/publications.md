@@ -10,7 +10,7 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 
-Web of Science (Clarivate) Total citations 455 as of 2026/4/1; H-index = 13.
+Web of Science (Clarivate) Total citations 468 as of 2026/6/8; H-index = 13.
 
 ## Work at ZUST
 (26) Juan Huang, Yuxue Pan, Fangfang Fan, **Qu Chen***, AI-Assisted Molecular Docking and Molecular Dynamics Simulations for Predicting Off-Target Effects of AKT1 ATP-Competitive Inhibitors (submitted)
@@ -65,4 +65,4 @@ Web of Science (Clarivate) Total citations 455 as of 2026/4/1; H-index = 13.
 
 (2) Yu Kang, Qi Wang*, Yingchun Liu, Tao Wu, **Qu Chen**, Wenjun Guan, Dynamic Mechanism of Collagen-like Peptide Encapsulated into Carbon Nanotubes, J. Phys. Chem. B, 2008, 112(15): 4801. [PDF](https://doi.org/10.1021/jp711392g)
 
-(1) Qingyin Wu*, **Qu Chen**, Xiaoqing Cai, Jianming Wang, Jianqing Zhang, Preparation and Conductivity of Solid High-proton Conductor Silica Gel Containing 80 wt.% Decatungstodivanadogermanic Acid, Materials Letters, 2007, 61(3): 663. [PDF](https://doi.org/10.1016/j.matlet.2006.05.030)
+(1) Qingyin Wu*, **Qu Chen**, Xiaoqing Cai, Jianming Wang, Jianqing Zhang, Preparation and Conductivity of Solid High-proton Conductor Silica Gel Containing 80 wt.% Decatungstodivanadogermanic Acid, Mater. Lett., 2007, 61(3): 663. [PDF](https://doi.org/10.1016/j.matlet.2006.05.030)
