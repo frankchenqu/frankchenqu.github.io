@@ -47,6 +47,8 @@ B.Eng. at Changzhou University
 B.Eng. at Jiangsu Normal University
 
 ## Conference
+Artificial Intelligence for BioPharma Conference, **2026**, Shanghai, China. (Attendee)
+
 The 28th Thermodynamics Conference, **2024**, Delft, the Netherlands. (Poster Session)
 
 The 6th International Conference on Applied Surface Science, **2024**, Wuzhen, Zhejiang, China. (Poster Session)
