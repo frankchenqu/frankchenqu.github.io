@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Research Interest
+title: Computational Chemistry for Protein Dynamics
 permalink: /research/
 date: 2023-8-21
 categories: pages
