@@ -69,7 +69,11 @@ Car-Parrinello Molecular Dynamics Program, **2011**, Barcelona, Spain. (Poster S
 
 Diffusion Fundamentals III, **2009**, Athens, Greece. (Poster Session)
 
-## Part-time Teaching Experience
+## Part-time Teaching & Authoring
+**2026**
+
+GUOMAI Culture & Media Co., Ltd.
+
 **2015-present**
 
 NetEase Youdao Information Technology Co., Ltd.
