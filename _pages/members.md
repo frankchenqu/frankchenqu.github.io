@@ -7,7 +7,7 @@ categories: pages
 ---
 
 ## Education and Employment
-**2015.6-present**
+**2015.6-Present**
 
 **Assistant Professor** at Zhejiang University of Science and Technology
 
@@ -29,6 +29,13 @@ categories: pages
 **2007** **Summer Visitor** at North Carolina State University, Raleigh, NC, USA (advisor: Prof. Keith E. Gubbins) 
 
 ## Mentoring Experience
+**Xiaoya Yan** master student (co-supervised with Prof. Juan Huang) 
+
+B.A. at Jiujiang University
+
+**Xu Wang** master student (co-supervised with Prof. Juan Huang) 
+
+B.Mgt. at Chuzhou University
 
 **Zhenjie Zhao** master student (co-supervised with Prof. Junfeng Niu) 
 
@@ -44,7 +51,7 @@ B.Eng. at Changzhou University
 
 **Lu Wang** master student (co-supervised with Prof. Yifeng Zhou) [Thesis (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=_Kb8wOrUs9sOdF4IwS2iOpl3RmlQAtNmKaxBD8BHLR8ApUnbQyja4ICsgZCe1ZPrmiu_pQy4-lGqSBiiqdEmq1hJ0bjbGARGOQIAChzDcDhxGFDfWsjVYHXaPZA_dWxKGIvoE1BlTf7t-ZfsXJVKmg==&uniplatform=NZKPT&language=CHS)
 
-B.Eng. at Jiangsu Normal University
+B.Eng. at Jiangsu Normal University KeWen College
 
 ## Conference
 Artificial Intelligence for BioPharma Conference, **2026**, Shanghai, China. (Attendee)
@@ -69,7 +76,7 @@ Car-Parrinello Molecular Dynamics Program, **2011**, Barcelona, Spain. (Poster S
 
 Diffusion Fundamentals III, **2009**, Athens, Greece. (Poster Session)
 
-## Part-time Teaching & Authoring
+## Part-time Teaching & Writing
 **2026**
 
 GUOMAI Culture & Media Co., Ltd.
@@ -97,10 +104,10 @@ New Oriental Education & Technology Group Inc.
 
 **Teaching and Speaking**
 
-**2017/2018**    The Most Popular Teachers Award, NetEase Youdao, Beijing, China
+**2017/2018** The Most Popular Teachers Award, NetEase Youdao, Beijing, China
 
 **2016** The winner of the Teaching Skills Competition for Young Teachers, Zhejiang University of Science and Technology
 
-**2009**   The third prize winner of the Teaching Skills Competition, New Oriental Education, China
+**2009** The third prize winner of the Teaching Skills Competition, New Oriental Education, China
 
-**2001**   The first prize winner of the High School English Speech Contest, Hangzhou, Zhejiang, China
+**2001** The first prize winner of the High School English Speech Contest, Hangzhou, Zhejiang, China
