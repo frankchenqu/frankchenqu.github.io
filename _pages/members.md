@@ -9,7 +9,7 @@ categories: pages
 ## Education and Employment
 **2015.6-Present**
 
-**Assistant Professor** at Zhejiang University of Science and Technology
+**Assistant Professor** at Zhejiang University of Science and Technology, Hangzhou, China
 
 **2014.2-2015.2**
 
@@ -110,4 +110,4 @@ New Oriental Education & Technology Group Inc.
 
 **2009** The third prize winner of the Teaching Skills Competition, New Oriental Education, China
 
-**2001** The first prize winner of the High School English Speech Contest, Hangzhou, Zhejiang, China
+**2001** The first prize winner of the High School English Speech Contest, Hangzhou, China
