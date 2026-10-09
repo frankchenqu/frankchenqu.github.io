@@ -2,7 +2,7 @@
 layout: single
 title: Qu Chen (Frank)
 permalink: /members/
-date: 2023-8-21
+date: 2026-10-09
 categories: pages
 ---
 
