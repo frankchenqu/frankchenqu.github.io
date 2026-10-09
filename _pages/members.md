@@ -81,7 +81,7 @@ Diffusion Fundamentals III, **2009**, Athens, Greece. (Poster Session)
 
 GUOMAI Culture & Media Co., Ltd.
 
-**2015-present**
+**2015-Present**
 
 NetEase Youdao Information Technology Co., Ltd.
 
