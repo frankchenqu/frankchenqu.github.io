@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Qu Chen (陈曲)"
   avatar           : "/assets/images/myphoto.JPG"
-  bio              : "Lecturer at Zhejiang University of Science and Technology (ZUST)"
+  bio              : "Assistant Professor at Zhejiang University of Science and Technology"
   location         : "Hangzhou, China"
   email            : "chenqu@vip.126.com"
   uri              : "https://scholar.google.com/citations?user=HZV22nIAAAAJ&hl=en"
@@ -127,6 +127,7 @@ author:
   xing             :
   youtube          : 
   Web of science   : "https://www.webofscience.com/wos/author/record/ABA-2630-2021"
+  orcid            : "https://orcid.org/0000-0002-4390-0303"
 
 
 # Reading Files
