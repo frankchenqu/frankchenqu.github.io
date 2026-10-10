@@ -10,7 +10,8 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 
-Web of Science (Clarivate) Total citations 491 as of 2026/10/09; H-index = 13.
+Web of Science (Clarivate) Total citations 491 as of 2026/10/09; H-index = 13.<br>
+ORCID: [0000-0002-4390-0303](https://orcid.org/0000-0002-4390-0303)
 
 ## Work at ZUST
 (26) Juan Huang, Yuxue Pan, Fangfang Fan, **Qu Chen***, AI-Assisted Molecular Docking and Molecular Dynamics Simulations for Predicting Off-Target Effects of AKT1 ATP-Competitive Inhibitors, J. Biomol. Struct. Dyn., 2026. [PDF](https://doi.org/10.1080/07391102.2026.2691863)
