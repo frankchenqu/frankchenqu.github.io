@@ -2,11 +2,11 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Faculty"
+  - title: "Experience"
     url: /members/
   - title: "Publications"
     url: /publications/
-  - title: "News"
+  - title: "Teaching"
     url: /news/
   # - title: "Sample Collections"
   #   url: /collection-archive/
