@@ -14,7 +14,11 @@ categories: pages
 ## English Teaching
 I specialize in English exam preparation for Chinese college students. I have published a book accompanied by a comprehensive series of instructional videos available on Bilibili. [Link](https://space.bilibili.com/426897601)
 
-{% include figure image_path="/assets/images/cover.png" caption="Useful Templates for High-Scoring Postgraduate Entrance Examination English Essays. World Book Publishing Company, October 2026 (1st edition)." %}
+{% include figure
+   image_path="/assets/images/cover.png"
+   width="300"
+   caption="Useful Templates for High-Scoring Postgraduate Entrance Examination English Essays. World Book Publishing Company, October 2026 (1st edition)."
+%}
 
 ## Recruitment
 We are recruiting self-driven, highly-motivated undergraduates and postgraduates to join our group.
