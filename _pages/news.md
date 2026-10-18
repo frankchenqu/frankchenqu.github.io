@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Teaching
-permalink: /news/
+permalink: /teaching/
 date: 2026-10-18
 categories: pages
 ---
