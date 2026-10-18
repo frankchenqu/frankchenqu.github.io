@@ -5,14 +5,14 @@ permalink: /news/
 date: 2026-10-18
 categories: pages
 ---
-## Chemistry Teaching
+## Chemistry Teaching (Full-time)
 
 **Advanced Thermodynamics** (taught in English)
 
 **Computational Chemistry** (taught in Chinese)
 
-## English Teaching
-I specialize in English exam preparation for Chinese college students. I have published a book accompanied by a comprehensive series of instructional videos available on Bilibili. [Link](https://space.bilibili.com/426897601)
+## English Teaching (Part-time)
+I have nearly 20 years of experience teaching English exam preparation to Chinese college students. I began this part-time work at New Oriental and have continued teaching at NetEase Youdao. I have also published a book with GoldMye, accompanied by a comprehensive series of instructional videos freely available on Bilibili. [Link](https://space.bilibili.com/426897601)
 
 {% include figure
    image_path="/assets/images/cover.png"
