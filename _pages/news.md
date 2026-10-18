@@ -12,7 +12,7 @@ categories: pages
 **Computational Chemistry** (taught in Chinese)
 
 ## English Teaching (Part-time)
-I have nearly 20 years of experience teaching English exam preparation to Chinese college students. I began this part-time work at New Oriental and have continued teaching at NetEase Youdao. I have also published a book with GoldMye, accompanied by a comprehensive series of instructional videos freely available on Bilibili. [Link](https://space.bilibili.com/426897601)
+I have nearly 20 years of experience teaching English exam preparation to Chinese college students. I began this part-time work at New Oriental and have continued teaching at NetEase Youdao. I have also published a book with GUOMAI Culture & Media Co., Ltd., accompanied by a comprehensive series of instructional videos freely available on Bilibili. [Link](https://space.bilibili.com/426897601)
 
 {% include figure
    image_path="/assets/images/cover.png"
