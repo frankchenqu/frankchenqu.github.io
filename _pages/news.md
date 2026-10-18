@@ -1,8 +1,8 @@
 ---
 layout: single
-title: News
-permalink: /Teaching/
-date: 2023-8-21
+title: Teaching
+permalink: /news/
+date: 2026-10-18
 categories: pages
 ---
 ## Openings
