@@ -17,7 +17,7 @@ I have nearly 20 years of experience teaching English exam preparation to Chines
 {% include figure
    image_path="/assets/images/cover.png"
    width="300"
-   caption="Useful Templates for High-Scoring Postgraduate Entrance Examination English Essays. World Book Publishing Company, October 2026 (1st edition)."
+   caption="*Useful Templates for High-Scoring Postgraduate Entrance Examination English Essays*. Beijing, China: World Book Publishing Company, October 2026 (1st edition)."
 %}
 
 ## Recruitment
