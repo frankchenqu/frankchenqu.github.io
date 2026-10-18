@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Qu Chen (Frank)
-permalink: /experience/
+permalink: /members/
 date: 2026-10-09
 categories: pages
 ---
