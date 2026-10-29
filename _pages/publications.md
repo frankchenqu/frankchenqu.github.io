@@ -3,18 +3,18 @@ layout: single
 title: "Publications"
 excerpt: "History of my publications in various academic journals."
 permalink: /publications/
-date: 2023-8-21
+date: 2026-10-30
 categories: pages
 toc: true
 toc_label: "Years"
 toc_icon: "columns"
 ---
 
-Web of Science (Clarivate) Total citations 491 as of 2026/10/09; H-index = 13.<br>
+Web of Science (Clarivate) Total citations 495 as of 2026/10/30; H-index = 13.<br>
 ORCID: [0000-0002-4390-0303](https://orcid.org/0000-0002-4390-0303)
 
 ## Work at ZUST
-(26) Juan Huang, Yuxue Pan, Fangfang Fan, **Qu Chen***, AI-Assisted Molecular Docking and Molecular Dynamics Simulations for Predicting Off-Target Effects of AKT1 ATP-Competitive Inhibitors, J. Biomol. Struct. Dyn., 2026. [PDF](https://doi.org/10.1080/07391102.2026.2691863)
+(26) Juan Huang, Yuxue Pan, Fangfang Fan, **Qu Chen***, AI-Assisted Molecular Docking and Molecular Dynamics Simulations for Predicting Off-Target Effects of AKT1 ATP-Competitive Inhibitors, J. Biomol. Struct. Dyn., 2026, 44(16): 7240–7268. [PDF](https://doi.org/10.1080/07391102.2026.2691863)
 
 (25) Juan Huang, Yuxue Pan, **Qu Chen***, MSCMF-DTB: A Multi-Scale Cross-Modal Fusion Framework for Drug–Target Binding Prediction, Sci. Rep., 2026, 16: 13211. [PDF](https://doi.org/10.1038/s41598-026-44048-9)
 
